@@ -1,0 +1,153 @@
+  h1 {
+    color: white;
+    font-size: 3em;
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-family: quesha;
+    position: absolute;
+    top: 49%;
+    left: 14%;
+  }
+
+  h2 {
+    color: white;
+    font-size: 6em;
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-family: quesha;
+    position: absolute;
+    top: 12%;
+    left: 75%;
+  }
+
+  h3 {
+    color: white;
+    font-size: 6em;
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-family: quesha;
+    position: absolute;
+    top: 22%;
+    left: 75%;
+  }
+
+body {
+  background: url(cafe3.jpg);
+  background-repeat: no-repeat;
+  background-size: 1950px;
+}
+
+.navbar{
+    text-align: center;
+    flex: 1;
+}
+
+.navbar a{
+    padding:6px 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 100px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+  color: white;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  top: 30%;
+  left: 38%;
+  min-width: 400px;
+  font-size: 3em;
+  margin:25px 0;
+  padding:25px 0;
+  text-align: center;
+  font-family: quesha;
+  position: absolute;
+}
+
+p1 {
+  color: white;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-size: 3em;
+  margin:0;
+  padding:0;
+  text-align: center;
+  font-family: quesha;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+}
+
+p2 {
+  color: white;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-size: 3em;
+  margin:0;
+  padding:0;
+  text-align: center;
+  font-family: quesha;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+p3 {
+  color: white;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-size: 3em;
+  margin:0;
+  padding:0;
+  text-align: center;
+  font-family: quesha;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+}
+
+p4 {
+  color: white;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-size: 3em;
+  margin:0;
+  padding:0;
+  text-align: center;
+  font-family: quesha;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+}
+
+p5 {
+  color: white;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-size: 3em;
+  margin:0;
+  padding:0;
+  text-align: center;
+  font-family: quesha;
+  position: absolute;
+  top: 30%;
+  left: 8%;
+}
+
+img {
+  position: relative;
+  top: 210px;
+  left: 320px;
+}
